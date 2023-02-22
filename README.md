@@ -1,6 +1,11 @@
 # sergeikhrustalev_infra
 sergeikhrustalev Infra repository
 
+bastion_IP = 62.84.126.118
+someinternalhost_IP = 10.128.0.32
+
+
+
 1.  Основное задание
 
 Целевая команда:
@@ -24,10 +29,4 @@ sergeikhrustalev Infra repository
 Подключаемся так:
 
     ssh someinternalhost
-
-
-Конфигурация vpn
-
-    bastion_IP = 62.84.126.118
-    someinternalhost_IP = 10.128.0.32
 
