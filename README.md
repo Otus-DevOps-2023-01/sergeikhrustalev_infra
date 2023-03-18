@@ -16,3 +16,9 @@ Could not get lock /var/lib/dpkg/lock-frontend - open (11: Resource temporarily 
 
 Чтобы предотвратить ее возникновение, добавил sleep 20 в скрипт  install_ruby.sh
 
+Terraform:
+Установил  terraform
+Описал вм в файле main.tf
+Описал output и input переменные в файлах output.tf и input.tf
+Задал значения переменных в файле terraform.tfvars
+
