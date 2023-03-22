@@ -1,8 +1,0 @@
-cloud_id                 = "0000000"
-folder_id                = "0000000"
-zone                     = "ru-central1-a"
-image_id                 = "0000000"
-public_key_path          = "~/.ssh/yc.pub"
-private_key              = "~/ssh/yc"
-subnet_id                = "0000000"
-service_account_key_file = "key.json"
