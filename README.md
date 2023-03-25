@@ -1,12 +1,13 @@
 # sergeikhrustalev_infra
 sergeikhrustalev Infra repository
 
-Terraform 2:
+Ansible 1:
 
 Выполнил ДЗ согласно инструкции:
 
-- Создал файлы  app.tf db.tf vpc.tf  на основе содержимого файла main.tf
-- Создал модули db и app
-- Создал окружения stage и prod
-- Проверил доступ к инстансам по ssh
+- Установил ansible
+- Создал inventory файл
+- Проверил работу команд и модулей ansible
+- Создал плейбук и проверил его работу
+
  
