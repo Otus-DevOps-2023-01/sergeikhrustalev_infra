@@ -1,13 +1,11 @@
 # sergeikhrustalev_infra
 sergeikhrustalev Infra repository
 
-Ansible 1:
+Ansible2:
 
 Выполнил ДЗ согласно инструкции:
 
-- Установил ansible
-- Создал inventory файл
-- Проверил работу команд и модулей ansible
-- Создал плейбук и проверил его работу
-
- 
+- Создал плейбуки reddit_app.yml и reddit_app2.yml
+- Настроил инстанс приложения, добавил шаблоны
+- Вынес сценарии из файла reddit_app2.yml  в отдельные плейбуки app.yml, db.yml, deploy.yml
+- Изменил провиженеры в packer
