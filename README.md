@@ -1,11 +1,12 @@
 # sergeikhrustalev_infra
 sergeikhrustalev Infra repository
 
-Ansible2:
+Ansible3:
 
 Выполнил ДЗ согласно инструкции:
 
-- Создал плейбуки reddit_app.yml и reddit_app2.yml
-- Настроил инстанс приложения, добавил шаблоны
-- Вынес сценарии из файла reddit_app2.yml  в отдельные плейбуки app.yml, db.yml, deploy.yml
-- Изменил провиженеры в packer
+- Перенес плейбуки в роли
+- Описал окружения stage и prod
+- Использовал коммьюнити роль nginx
+- Использовал ansible vault
+
