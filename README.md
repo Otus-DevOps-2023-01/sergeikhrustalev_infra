@@ -1,12 +1,11 @@
 # sergeikhrustalev_infra
 sergeikhrustalev Infra repository
 
-Ansible3:
+Ansible 4:
 
-Выполнил ДЗ согласно инструкции:
+ - Установил Vagrant
+ - Создал vm и проверил их работу
+ - Доработал роли, добавив провиженеры
+ - Протестировал роли
 
-- Перенес плейбуки в роли
-- Описал окружения stage и prod
-- Использовал коммьюнити роль nginx
-- Использовал ansible vault
 
