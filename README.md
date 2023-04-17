@@ -1,7 +1,7 @@
 # sergeikhrustalev_infra
 sergeikhrustalev Infra repository
 
-Ansible3:
+Ansible 4:
 
  - Установил Vagrant
  - Создал vm и проверил их работу
